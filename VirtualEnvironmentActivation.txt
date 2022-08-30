@@ -1,0 +1,13 @@
+(base) C:\WINDOWS\system32>cd..
+
+(base) C:\Windows>cd..
+
+(base) C:\>cd Users
+
+(base) C:\Users>cd Abhijit
+
+(base) C:\Users\abhijit>cd 1PGP2002
+
+(base) C:\Users\abhijit\1PGP2002>cd DeepLearning
+
+(base) C:\Users\abhijit\1PGP2002\DeepLearning>conda activate deep_learning
